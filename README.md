@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Data Analyst | Power BI | PostgreSQL | Advanced Excel | Data Visualization<br>I’m a Data Analyst transitioning from another professional field into Data Analytics, with hands-on experience in Advanced Excel, PostgreSQL, Power BI, Power Query, DAX, and Google Sheets.<br>I specialize in transforming raw data into clean, meaningful, and interactive dashboards that help communicate business performance and uncover useful insights.<br>I have built multiple analytics projects using Excel, SQL, and Power BI, including data cleaning, transformation, SQL analysis, data modeling, DAX calculations, KPI development, and dashboard design.<br>
 
 
